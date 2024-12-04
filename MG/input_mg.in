@@ -1,0 +1,4 @@
+128         !nx
+128         !ny
+1.e-8       ! précision
+2           ! choix du solveur grille la plus grossière 1: GS, 2: LU, 3 : CG

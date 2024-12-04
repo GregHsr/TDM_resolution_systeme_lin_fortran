@@ -1,0 +1,4 @@
+256      !nx= nombre de points dans la direction x
+256      !ny= nombre de points dans la direction y
+5        ! choix de la methode 1: Jacobi, 2 Gauss-Seidel, 3 SOR, 4 Gradient Conjugué, 5 Gradient Conjugué préconditionné
+ 1.d-8  ! précision demandée pour le résidu
